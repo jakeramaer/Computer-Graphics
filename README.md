@@ -23,4 +23,4 @@ Project is created with:
 
 	
 ## Setup
-To run this project, use the command 'make' in the 'Practical 3' source folder:
+To run this project, use the command 'make' in the '/coursework' source folder:
