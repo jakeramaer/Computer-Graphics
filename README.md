@@ -4,7 +4,7 @@
 ## General
 This project uses the C++ OpenGL library to create an advanced 3D graphics rendering engine from scratch, capable of rendering soft shaddows, complex materials (mirrors, glass), and perspective corrected texture mapping.
 
-A sample video is given below.
+A sample video is given below (480p).
 
 [![Sample video for 3D graphics rendering engine](https://img.youtube.com/vi/BW3S2-OglDs/0.jpg)](https://www.youtube.com/watch?v=BW3S2-OglDs)
 
